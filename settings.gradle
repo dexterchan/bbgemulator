@@ -1,0 +1,4 @@
+rootProject.name = 'lambdabbgservice'
+include 'awslambdatest'
+include 'blpapi_emu'
+
